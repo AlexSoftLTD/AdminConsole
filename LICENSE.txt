@@ -1,0 +1,68 @@
+﻿AdminConsole Freeware License — Version 1.1
+Copyright (c) 2026 AlexSoft LTD
+
+РУССКИЙ — основной текст; при расхождениях применяется русский текст
+
+1. AdminConsole можно бесплатно устанавливать и использовать в личных целях,
+   организациях и коммерческой деятельности на любом количестве компьютеров.
+   Разрешены резервные копии и внутреннее развёртывание в организации.
+2. Разрешается бесплатно распространять полный неизменённый официальный
+   дистрибутив на своих сайтах и других площадках, сохраняя лицензию
+   и уведомления. Нельзя выдавать себя за автора или официального партнёра.
+   Нельзя брать плату за программу или доступ к её скачиванию либо включать
+   её в платный продукт без отдельного разрешения AlexSoft LTD. Это
+   не ограничивает использование программы в оплачиваемой работе.
+3. Исходный код доступен для ознакомления. За исключением прямо разрешённого
+   настоящими условиями, применимым законом или правилами GitHub о просмотре
+   и создании форков внутри сервиса, не предоставляется разрешение изменять
+   программу и исходники, создавать производные версии, использовать код
+   в других продуктах и распространять изменённые версии. Для иных способов
+   использования требуется предварительное письменное разрешение AlexSoft LTD.
+4. Запрещаются продажа, перепродажа, платное сублицензирование, удаление
+   уведомлений об авторских правах и лицензии и искажение происхождения
+   программы. Не предоставленные явно права сохраняются. Это собственная
+   лицензия бесплатного использования, а не лицензия open source.
+   Обязательные права по применимому закону сохраняются.
+5. Программа предоставляется «как есть», без гарантий бесперебойной работы,
+   пригодности для конкретной цели и обязательной поддержки. В пределах,
+   допускаемых законом, правообладатель не отвечает за убытки от её
+   использования. Неотменяемые законом права и ответственность сохраняются.
+6. Условия относятся к собственному коду проекта, документации и оригинальному
+   значку. Windows, .NET Framework и сторонние компоненты регулируются своими
+   условиями; права на них не заявляются.
+
+Обратная связь и запросы разрешений:
+https://github.com/AlexSoftLTD/AdminConsole/issues
+
+ENGLISH — translation; in case of discrepancies, the Russian text prevails
+
+1. You may install and use AdminConsole free of charge for personal,
+   organizational and commercial purposes, on any number of computers.
+   You may make backup copies and deploy it internally in your organization.
+2. You may redistribute the complete, unmodified official distribution free
+   of charge on your own website or other platform, including its license
+   and notices. Do not imply that you are the author or an official partner.
+   Do not charge for the software or access to its download, or bundle it
+   into a paid product without separate permission from AlexSoft LTD.
+   This does not restrict using the software in paid professional work.
+3. Source code is available for inspection. Except as expressly permitted
+   here, by applicable law, or by GitHub's terms for viewing and forking
+   within its service, no permission is granted to modify the software or
+   source code, create derivative works, reuse code in other products,
+   or distribute modified versions. Other uses require prior written
+   permission from AlexSoft LTD.
+4. You may not sell, resell, sublicense for a fee, remove copyright or license
+   notices, or misrepresent the software's origin. Rights not expressly
+   granted are reserved. This is a proprietary freeware license, not an
+   open-source license. Mandatory rights under applicable law are unaffected.
+5. The software is provided "as is", without warranties of uninterrupted
+   operation, fitness for a particular purpose or mandatory support.
+   To the extent permitted by applicable law, the rights holder is not liable
+   for losses arising from use of the software. Non-excludable statutory
+   rights and liability remain unaffected.
+6. These terms cover the project's own code, documentation and original icon.
+   Windows, .NET Framework and third-party components remain subject to
+   their respective terms; no ownership of those components is claimed.
+
+Feedback and permission requests:
+https://github.com/AlexSoftLTD/AdminConsole/issues

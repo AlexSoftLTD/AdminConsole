@@ -1,0 +1,32 @@
+name: Feedback / Обратная связь
+description: Report a problem, ask a question or suggest an improvement / Ошибка, вопрос или предложение
+body:
+  - type: markdown
+    attributes:
+      value: "This is a public issue. Do not include passwords or private information. / Обращение публичное. Не указывайте пароли и личные данные."
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Type / Тип
+      options:
+        - Bug / Ошибка
+        - Suggestion / Предложение
+        - Question / Вопрос
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Application version / Версия программы
+      description: See the window title / Указана в заголовке окна
+  - type: input
+    id: windows
+    attributes:
+      label: Windows version / Версия Windows
+  - type: textarea
+    id: description
+    attributes:
+      label: Description / Описание
+      description: "For a bug, include steps, expected and actual results. Screenshots are welcome. / Для ошибки укажите шаги, ожидаемый и фактический результат. Можно приложить скриншот."
+    validations:
+      required: true
